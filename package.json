@@ -24,17 +24,17 @@
     "test": "npm run build"
   },
   "dependencies": {
-    "primer-alerts": "*",
-    "primer-avatars": "*",
-    "primer-blankslate": "*",
-    "primer-markdown": "*",
-    "primer-states": "*",
-    "primer-support": "*"
+    "primer-alerts": "^0.4.0",
+    "primer-avatars": "^0.3.0",
+    "primer-blankslate": "^0.3.0",
+    "primer-markdown": "^3.3.1",
+    "primer-states": "^0.4.0",
+    "primer-support": "^1.0.0"
   },
   "peerDependencies": {
-    "primer-core": "*"
+    "primer-core": "^1.0.0"
   },
   "devDependencies": {
-    "primer-module-build": "*"
+    "primer-module-build": "^1.0.2"
   }
 }
