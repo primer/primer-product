@@ -29,7 +29,7 @@
     "primer-blankslate": "^0.3.0",
     "primer-markdown": "^3.3.1",
     "primer-states": "^0.4.0",
-    "primer-support": "^1.0.0"
+    "primer-support": "^2.0.0"
   },
   "peerDependencies": {
     "primer-core": "^1.0.0"
