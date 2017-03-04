@@ -32,7 +32,7 @@
     "primer-support": "^3.0.0"
   },
   "peerDependencies": {
-    "primer-core": "^1.0.0"
+    "primer-core": "^2.0.0"
   },
   "devDependencies": {
     "primer-module-build": "*"
