@@ -27,8 +27,8 @@
     "primer-alerts": "^1.1.2",
     "primer-avatars": "^0.4.6",
     "primer-blankslate": "^0.3.5",
+    "primer-labels": "^1.0.0",
     "primer-markdown": "^3.3.7",
-    "primer-states": "^0.4.4",
     "primer-support": "^4.0.0"
   },
   "peerDependencies": {
